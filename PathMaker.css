@@ -1,0 +1,62 @@
+body{
+    background-color: beige;
+}
+#omniBoard{
+    background-color: white;
+    border: black 1px solid;
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    left: 350px;
+    top: 50px
+}
+.oB4{
+    background-color: tan;
+    width: 173px;
+    height: 173px;
+    border: black 1px solid;
+    /* display: block; */
+    float: left;
+}
+.oB5{
+    background-color: tan;
+    width: 138px;
+    height: 138px;
+    border: black 1px solid;
+    /* display: block; */
+    float: left;
+}
+.oB7{
+    background-color: tan;
+    width: 98px;
+    height: 98px;
+    border: black 1px solid;
+    /* display: block; */
+    float: left;  
+}
+.oB10{
+    background-color: tan;
+    width: 68px;
+    height: 68px;
+    border: black 1px solid;
+    /* display: block; */
+    float: left;  
+}
+#leftDisplay{
+    background-color: blanchedalmond;
+    position: absolute;
+    top: 50px;
+    height: 700px;
+    width: 200px;
+    left: 75px;
+    border: black 1px solid;
+}
+#rightDisplay{
+    background-color: blanchedalmond;
+    position: absolute;
+    top: 50px;
+    height: 700px;
+    width: 200px;
+    right: 75px;
+    border: black 1px solid;  
+}
